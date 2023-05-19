@@ -104,7 +104,7 @@ email_label.grid(column=0, row=2)
 
 email_entry = Entry(width=35)
 email_entry.grid(column=1, row=2)
-email_entry.insert(0, "abdallahadam130@gmail.com")
+email_entry.insert(0, "Your email here!")
 
 password_label = Label(text="Password:", font=("Arial", 10, "bold"), bg="white")
 password_label.grid(column=0, row=3)
